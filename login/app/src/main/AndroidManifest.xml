@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.login">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Login">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DangKy">
+
+        </activity>
+        <activity android:name=".Trangchu">
+        </activity>
+        <activity android:name=".formQuiz">
+        </activity>
+        <activity android:name=".formQuizNormal">
+        </activity>
+        <activity android:name=".formResult">
+        </activity>
+
+        <activity android:name=".TestHard">
+        </activity>
+
+
+        <activity android:name=".choseNumberQuiz">
+        </activity>
+        <activity android:name=".Tutorial">
+        </activity>
+        <activity android:name=".Highscore">
+        </activity>
+        <activity android:name=".Savescore">
+        </activity>
+        <activity android:name=".Level">
+        </activity>
+
+
+
+    </application>
+
+</manifest>

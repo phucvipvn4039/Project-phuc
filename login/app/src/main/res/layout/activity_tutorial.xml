@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background3"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hướng dẫn và Giới Thiệu "
+        android:textSize="40dp"
+        android:padding="30dp"
+
+        />
+        android:textColor="@color/black"
+    <TextView
+        android:id="@+id/TxtKQ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello bạn nếu muốn giỏi trờ chơi này chắc hẵng bạn có kiến thức về bóng đá,còn nếu không thì bổ sung nó qua google.com nhé "
+        android:textSize="30dp"
+        android:padding="30dp"
+
+        />
+
+    <Button
+        android:id="@+id/BtnBack"
+        android:layout_width="201dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="Trở về"
+        android:textSize="30dp" />
+
+</LinearLayout>

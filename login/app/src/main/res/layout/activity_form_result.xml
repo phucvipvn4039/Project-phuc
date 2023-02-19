@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background5">
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kết quả bài làm"
+        android:textColor="#FF9800"
+        android:textSize="30dp"
+        android:padding="10dp"
+        android:layout_marginTop="100dp"
+        >
+
+
+    </TextView>
+    <TextView
+        android:id="@+id/TxtKQ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="30dp"
+        android:padding="30dp"
+        android:textColor="#FF9800"
+        android:textAlignment="center"
+        />
+    <Button
+        android:id="@+id/BtnLuuDiem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        android:background="#00BB00"
+        android:textColor="#FFFFFF"
+        android:text="Lưu Điểm"
+        android:textSize="30dp" />
+    <Button
+        android:id="@+id/Btnplayagain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        android:background="#00BB00"
+        android:textColor="#FFFFFF"
+        android:text="Chơi Lại"
+        android:textSize="30dp" />
+
+
+    <Button
+        android:id="@+id/BtnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:background="#FFC107"
+        android:text="Trở về"
+        android:textSize="30dp" />
+
+</LinearLayout>

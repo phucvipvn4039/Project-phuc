@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "442124906278",
+    "firebase_url": "https://cauthu-efaa3-default-rtdb.firebaseio.com",
+    "project_id": "cauthu-efaa3",
+    "storage_bucket": "cauthu-efaa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442124906278:android:802383574d0e2befe59be7",
+        "android_client_info": {
+          "package_name": "com.example.doan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442124906278-4e02bep1l0fgu4dma0g5kvq7vledt79n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4x5tySkAeUB5q5Kn4l7UsOY0PPDxEkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442124906278-4e02bep1l0fgu4dma0g5kvq7vledt79n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442124906278:android:5bbe1698dbf7fb91e59be7",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442124906278-4e02bep1l0fgu4dma0g5kvq7vledt79n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4x5tySkAeUB5q5Kn4l7UsOY0PPDxEkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442124906278-4e02bep1l0fgu4dma0g5kvq7vledt79n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442124906278:android:c47e45e6b14e31b2e59be7",
+        "android_client_info": {
+          "package_name": "dangki.appname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442124906278-4e02bep1l0fgu4dma0g5kvq7vledt79n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4x5tySkAeUB5q5Kn4l7UsOY0PPDxEkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442124906278-4e02bep1l0fgu4dma0g5kvq7vledt79n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

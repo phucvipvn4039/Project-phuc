@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background4"
+
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#FFFF"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:src="@drawable/icondongho"
+            />
+
+        <TextView
+            android:id="@+id/tvTimer"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="60:00"
+            android:textColor="#111111"
+            android:textSize="20dp" />
+
+
+        <Button
+            android:id="@+id/tvKiemTra"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginBottom="0dp"
+            android:background="@drawable/custom1"
+            android:text="Check"
+            android:textSize="20dp"
+
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/TxtCauhoi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cau hoi"
+
+        android:textSize="50dp"/>
+
+
+
+    <ImageView
+        android:id="@+id/Ivimage"
+        android:layout_width="377dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center" />
+
+    <RadioGroup
+        android:id="@+id/RadioGroupTraloi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="50dp"
+
+        >
+
+        <RadioButton
+            android:id="@+id/RdbA"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:padding="10dp"
+            android:text="A. "
+            android:textColor="#004445"
+            android:textSize="20dp" />
+
+        <RadioButton
+            android:id="@+id/RdbB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="B. "
+            android:textSize="20dp"
+            android:padding="10dp"
+            android:textColor="#004445"
+            android:background="@color/white"
+            />
+        <RadioButton
+            android:id="@+id/RdbC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="C. "
+            android:textSize="20dp"
+            android:padding="10dp"
+            android:textColor="#004445"
+            android:background="@color/white"
+            />
+        <RadioButton
+            android:id="@+id/RdbD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="D. "
+            android:textSize="20dp"
+            android:padding="10dp"
+            android:textColor="#004445"
+            android:background="@color/white"
+            />
+    </RadioGroup>
+    <Button
+        android:id="@+id/BtnTraloi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/RadioGroupTraloi"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:background="#66B644"
+        android:text="Trả lời"
+        android:textSize="35dp"
+        />
+
+    <TextView
+        android:id="@+id/TxtKetqua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_below="@+id/BtnTraloi"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        />
+
+
+
+</LinearLayout>

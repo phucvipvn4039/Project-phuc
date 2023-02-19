@@ -1,0 +1,36 @@
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\bin\Debug\QuanLyCuaHangAnUong.exe.config
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\bin\Debug\QuanLyCuaHangAnUong.exe
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\bin\Debug\QuanLyCuaHangAnUong.pdb
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.csproj.SuggestedBindingRedirects.cache
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmLogin.resources
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmTrangChu.resources
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.csproj.GenerateResource.cache
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.exe
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.pdb
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmMenu.resources
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.csproj.AssemblyReference.cache
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmStaffs.resources
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\bin\Debug\BUS.dll
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\bin\Debug\DAO.dll
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\bin\Debug\DTO.dll
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\bin\Debug\BUS.pdb
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\bin\Debug\DAO.pdb
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\bin\Debug\DTO.pdb
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.csproj.CopyComplete
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmChuyenBan.resources
+C:\Users\COMPUTER\Desktop\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmMonAn.resources
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.csproj.AssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.csproj.SuggestedBindingRedirects.cache
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmChuyenBan.resources
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmLogin.resources
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmMenu.resources
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmStaffs.resources
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmMonAn.resources
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.FrmTrangChu.resources
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.csproj.GenerateResource.cache
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.exe
+C:\Users\COMPUTER\Desktop\Du lieu\Baitap\QuanLyCuaHangAnUong\QuanLyCuaHangAnUong\obj\Debug\QuanLyCuaHangAnUong.pdb
